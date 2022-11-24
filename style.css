@@ -1,0 +1,46 @@
+body {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(90deg, #00dbde 0%, #252750 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image:url(https://thumbs.dreamstime.com/b/abstract-global-technology-hand-est%C3%A1-tocando-el-pi%C3%B1%C3%B3n-virtual-tecnolog%C3%ADa-y-visi%C3%B3n-muchos-usos-para-la-publicidad-libro-220328409.jpgs);
+  background-position: left;
+  background-size:cover;
+
+}
+
+
+
+.container {
+  background-color: #fff;
+  border-radius: 20px;
+  box-shadow: 20px 20px 20px );
+  width: 400px;
+  max-width: 100%;
+  overflow: hidden;
+}
+.header {
+  background-color: #green;
+  padding: 20px;
+}
+
+
+
+
+
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+
+.lottie{
+    background-image:url();
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
